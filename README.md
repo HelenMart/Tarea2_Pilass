@@ -3,7 +3,8 @@
 
 Ejemplo: 
 
-Expresion 1: [(8-9)+(4/8)]    ----> Expresion nivelada
+Expresion 1: [(8-9)+(4/8)]  ----> Expresion nivelada
+
 Expresion 2: [(8-9)+((4/8)] ----> Expresion desnivelada
 
 - Funcion de conversion de una expresion matematica infija a una expresion posfija
@@ -11,6 +12,7 @@ Expresion 2: [(8-9)+((4/8)] ----> Expresion desnivelada
 Ejemplo:
 
 Expresion 1: (8 -9  )+12     ---> Resultado: 8 9 12 - +
+
 Expresion 2: [(5-6)+(14/2)] ---> Resultado: 5 6 14 2 - + /
 
 ## Conceptos utiizados
